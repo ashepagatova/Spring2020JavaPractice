@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fbb6d18-a3b3-4377-9111-f2f662383a4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$Even_and_odd_number.ic" NAME="Even_and_odd_number Coverage Results" MODIFIED="1585529152629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ayna_daily_traning_code.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$EmployeeInfo.ic" NAME="EmployeeInfo Coverage Results" MODIFIED="1585579814037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day01_FirstProgramming.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring2020B18_Java">
+      <favorite_root url="file://$PROJECT_DIR$/src" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src/Office_hours" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/warmpuptest3.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/Practice_03_18_2020" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/Practice_03_18_2020/package-info.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/Practice_03_18_2020/LogicalOperatir.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/Practice_03_18_2020/singleIfPracice2.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/Practice_03_18_2020/singleIf_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/Practice_03_18_2020/uneryOperators_Practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/Practice_03_18_2020/shorthandOperator_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/Practice_03_18_2020/practiceNotefrom_officehour.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/practice_03_23_2020" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/practice_03_23_2020/IfElse_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/practice_03_23_2020/SingleIfStatment.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/practice_03_23_2020/nestedIf_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/practice_03_23_2020/nestedIfPractice3.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/practice_03_23_2020/multiBranchIfStatement.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/practice_03_23_2020/ExpliciteCasting_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/src/Office_hours/warmUprecovery.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day11_Scanner" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day11_Scanner/NextLine.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day11_Scanner/nextLine2.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day11_Scanner/ScannerClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day11_Scanner/aterTax_Practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day11_Scanner/employeinfo_Scanner.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day11_Scanner/browsers_switchSatament.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/onlyWarmUpTest" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/onlyWarmUpTest/JavaPP.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/onlyWarmUpTest/warmUp2.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/onlyWarmUpTest/justPractice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/onlyWarmUpTest/warmUpTestforcourse.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables/HelloCybertek.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables/string_Praktice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables/escape_Seyuences.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables/print_Vs_println.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables/Emoloyee_variable.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables/tellMeabouYourSelf.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables/variables_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day02_Variables/doubleFloatPractice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day04_javaRecap" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day04_javaRecap/variable_primitive.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day04_javaRecap/Arithmatic_operator.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap/scanner_next.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap/TerneryPracti2.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap/ScannerNextLine.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap/sumOfFiveNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap/Switch_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap/TernaryPractice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap/salary_Calculate.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day12_javaRecap/scanner_nextline.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day08_IfStatment" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day08_IfStatment/Timers.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day08_IfStatment/warmUptest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day08_IfStatment/daysInMonth.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day08_IfStatment/multiBranch_ifPractice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day08_IfStatment/multiBranchIfstatement.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day08_IfStatment/DaysInmoth_multiBranchIf.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day08_IfStatment/EqualBramch_multibrachStatment.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day07_IfStatement" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day07_IfStatement/day07Notes.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day07_IfStatement/mediumNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day07_IfStatement/MaximumNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day07_IfStatement/MinimumNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day07_IfStatement/validTriAngle.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day07_IfStatement/eligiableToVote.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/days.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/numToWords.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/daysInMonth.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/ScanerClass.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/ScanerMethod.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/localVariable.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/number_scaner.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/SwitchStatment.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/ScanerClassPractice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/switchStatetmentPractice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/switchStatement_practice2.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/switchstatement_practice3.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day10_Switch_Scaner/salaryCalculaterwithScaner.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/GasRecipt.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/variables.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/classmates.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/HelloWorld.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/EmployeeInfo.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/WhatIlearned.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/PrintExercise.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/my_favorite_book.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day01_FirstProgramming/TellMeAbotYourself.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day03_variableContinue" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day03_variableContinue/salary_calculater.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day03_variableContinue/variables_continue.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day03_variableContinue/boolean_char_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/Ternary.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/ageGroup.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/nestedIf.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/Turnary02.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/Tenary_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/NestedIfTaskLoan.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/AgeGroup_NestedIf.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/Ternary_practice02.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day09_NestedIf_Ternary/withOutCurlyBraces.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/replit_tranig_practice" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/repl.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/quize.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/Slice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/else_if.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/rateCal.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/ternary.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/minNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/salaryTax.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/Scanner01.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/VoteOrNOt.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/newternary.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/equalNumbers.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/ShoppingList.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/medimanNumber.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/StingLearning.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/validTriAngle.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/number_scanner.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/greaterOrEqualto.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/maxNumber_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/vote_forprecidency.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/Even_and_odd_number.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/Coffeine_calculation.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/ayna_daily_traning_code/ScannerClass_practice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperator" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperator/PostPre.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperator/LeapYear.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperator/practice05.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperator/Divisibility.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperator/unery_Operator.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperator/PrimitiveCasting.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day05_Unary_ShorthandOperator/VAriablesPractise.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators" module="Spring2020B18_Java" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/warmUp.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/classNote.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/javaPractive06.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/logicalOperators.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/shortHadOperator.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/singleIfStatment.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/IfstatementPractice.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ayna_daily_traning_code/ShoppingList.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1ZrOW7u5mSOZc0nHql9iI8QXLsI" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UI Form</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585600403608" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Resourses" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Time_Formating">
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18_nestedLoops.FactorialNumber" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18_nestedLoops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Local_Date_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_Date_Time.Local_Date_Practice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28_Date_Time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Time_Formating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28_Date_Time.Time_Formating" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28_Date_Time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoopPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_WhileLoop.WhileLoopPractice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_WhileLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="whileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day17_WhileLoop.whileLoop" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_WhileLoop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.whileLoop" />
+      <item itemvalue="Application.WhileLoopPractice" />
+      <item itemvalue="Application.FactorialNumber" />
+      <item itemvalue="Application.Local_Date_Practice" />
+      <item itemvalue="Application.Time_Formating" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Time_Formating" />
+        <item itemvalue="Application.Local_Date_Practice" />
+        <item itemvalue="Application.FactorialNumber" />
+        <item itemvalue="Application.WhileLoopPractice" />
+        <item itemvalue="Application.whileLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fbb6d18-a3b3-4377-9111-f2f662383a4a" name="Default Changelist" comment="" />
+      <created>1583771051467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583771051467</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587737047066">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="372" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587737047066" />
+    <state x="1936" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587351958824" />
+    <state x="372" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1586289310438" />
+    <state x="438" y="320" width="564" height="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587094873461">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="438" y="320" width="564" height="263" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587094873461" />
+    <state x="395" y="149" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587155939334">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="395" y="149" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587155939334" />
+    <state x="332" y="54" key="#stringManipulation3" timestamp="1585678611323">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="332" y="54" key="#stringManipulation3/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1585678611323" />
+    <state width="1388" height="163" key="GridCell.Tab.0.bottom" timestamp="1587740024036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587740024036" />
+    <state width="1868" height="215" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587436805727" />
+    <state width="1388" height="187" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587653405026" />
+    <state width="1388" height="215" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587533173288" />
+    <state width="1388" height="214" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1586034918205" />
+    <state width="1388" height="183" key="GridCell.Tab.0.bottom/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1586188748405" />
+    <state width="1388" height="141" key="GridCell.Tab.0.bottom/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1586312292028" />
+    <state width="1388" height="163" key="GridCell.Tab.0.bottom/0.23.1440.836/1440.23.1920.1057@0.23.1440.836" timestamp="1587699956621" />
+    <state width="1388" height="190" key="GridCell.Tab.0.bottom/0.23.1440.837/1440.23.1920.1057@0.23.1440.837" timestamp="1587045913533" />
+    <state width="1868" height="215" key="GridCell.Tab.0.bottom/0.23.1440.838/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587244530729" />
+    <state width="1868" height="82" key="GridCell.Tab.0.bottom/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899207" />
+    <state width="1348" height="168" key="GridCell.Tab.0.bottom/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1585663289572" />
+    <state width="1868" height="236" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1585798917863" />
+    <state width="1388" height="163" key="GridCell.Tab.0.center" timestamp="1587740024034">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587740024034" />
+    <state width="1868" height="215" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587436805723" />
+    <state width="1388" height="187" key="GridCell.Tab.0.center/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587653405024" />
+    <state width="1388" height="215" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587533173287" />
+    <state width="1388" height="214" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1586034918204" />
+    <state width="1388" height="183" key="GridCell.Tab.0.center/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1586188748404" />
+    <state width="1388" height="141" key="GridCell.Tab.0.center/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1586312292028" />
+    <state width="1388" height="163" key="GridCell.Tab.0.center/0.23.1440.836/1440.23.1920.1057@0.23.1440.836" timestamp="1587699956621" />
+    <state width="1388" height="190" key="GridCell.Tab.0.center/0.23.1440.837/1440.23.1920.1057@0.23.1440.837" timestamp="1587045913532" />
+    <state width="1868" height="215" key="GridCell.Tab.0.center/0.23.1440.838/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587244530727" />
+    <state width="1868" height="82" key="GridCell.Tab.0.center/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899206" />
+    <state width="1348" height="168" key="GridCell.Tab.0.center/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1585663289571" />
+    <state width="1868" height="236" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1585798917861" />
+    <state width="1388" height="163" key="GridCell.Tab.0.left" timestamp="1587740024033">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587740024033" />
+    <state width="1868" height="215" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587436805722" />
+    <state width="1388" height="187" key="GridCell.Tab.0.left/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587653405023" />
+    <state width="1388" height="215" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587533173286" />
+    <state width="1388" height="214" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1586034918204" />
+    <state width="1388" height="183" key="GridCell.Tab.0.left/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1586188748403" />
+    <state width="1388" height="141" key="GridCell.Tab.0.left/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1586312292028" />
+    <state width="1388" height="163" key="GridCell.Tab.0.left/0.23.1440.836/1440.23.1920.1057@0.23.1440.836" timestamp="1587699956620" />
+    <state width="1388" height="190" key="GridCell.Tab.0.left/0.23.1440.837/1440.23.1920.1057@0.23.1440.837" timestamp="1587045913532" />
+    <state width="1868" height="215" key="GridCell.Tab.0.left/0.23.1440.838/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587244530726" />
+    <state width="1868" height="82" key="GridCell.Tab.0.left/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899206" />
+    <state width="1348" height="168" key="GridCell.Tab.0.left/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1585663289571" />
+    <state width="1868" height="236" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1585798917858" />
+    <state width="1388" height="163" key="GridCell.Tab.0.right" timestamp="1587740024035">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="163" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587740024035" />
+    <state width="1868" height="215" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587436805724" />
+    <state width="1388" height="187" key="GridCell.Tab.0.right/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587653405025" />
+    <state width="1388" height="215" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587533173288" />
+    <state width="1388" height="214" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1586034918205" />
+    <state width="1388" height="183" key="GridCell.Tab.0.right/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1586188748405" />
+    <state width="1388" height="141" key="GridCell.Tab.0.right/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1586312292028" />
+    <state width="1388" height="163" key="GridCell.Tab.0.right/0.23.1440.836/1440.23.1920.1057@0.23.1440.836" timestamp="1587699956621" />
+    <state width="1388" height="190" key="GridCell.Tab.0.right/0.23.1440.837/1440.23.1920.1057@0.23.1440.837" timestamp="1587045913533" />
+    <state width="1868" height="215" key="GridCell.Tab.0.right/0.23.1440.838/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587244530728" />
+    <state width="1868" height="82" key="GridCell.Tab.0.right/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899206" />
+    <state width="1348" height="168" key="GridCell.Tab.0.right/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1585663289572" />
+    <state width="1868" height="236" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1585798917862" />
+    <state width="1868" height="353" key="GridCell.Tab.1.bottom" timestamp="1587413904218">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="285" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1586181799008" />
+    <state width="1868" height="353" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587354238001" />
+    <state width="1868" height="353" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587413904218" />
+    <state width="1388" height="285" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586049694028" />
+    <state width="1388" height="285" key="GridCell.Tab.1.bottom/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899201" />
+    <state width="1868" height="353" key="GridCell.Tab.1.center" timestamp="1587413904217">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="285" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1586181799006" />
+    <state width="1868" height="353" key="GridCell.Tab.1.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587354238000" />
+    <state width="1868" height="353" key="GridCell.Tab.1.center/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587413904217" />
+    <state width="1388" height="285" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586049694027" />
+    <state width="1388" height="285" key="GridCell.Tab.1.center/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899201" />
+    <state width="1868" height="353" key="GridCell.Tab.1.left" timestamp="1587413904216">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="285" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1586181799006" />
+    <state width="1868" height="353" key="GridCell.Tab.1.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587354237999" />
+    <state width="1868" height="353" key="GridCell.Tab.1.left/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587413904216" />
+    <state width="1388" height="285" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586049694026" />
+    <state width="1388" height="285" key="GridCell.Tab.1.left/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899200" />
+    <state width="1868" height="353" key="GridCell.Tab.1.right" timestamp="1587413904218">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="285" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1586181799007" />
+    <state width="1868" height="353" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587354238000" />
+    <state width="1868" height="353" key="GridCell.Tab.1.right/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587413904218" />
+    <state width="1388" height="285" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586049694027" />
+    <state width="1388" height="285" key="GridCell.Tab.1.right/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899201" />
+    <state x="287" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1587692110366">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="287" y="211" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587688698203" />
+    <state x="1823" y="278" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1585839758938" />
+    <state x="287" y="232" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586196155587" />
+    <state x="287" y="219" key="com.intellij.ide.util.TipDialog/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1587692110366" />
+    <state x="287" y="239" key="com.intellij.ide.util.TipDialog/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1585601899899" />
+    <state x="374" y="0" width="549" height="900" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587579413143">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="374" y="0" width="549" height="900" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587579413143" />
+    <state x="374" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1586146474661" />
+    <state x="374" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1587532655497" />
+    <state x="299" y="9" width="842" height="882" key="find.popup" timestamp="1587397975102">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="299" y="9" width="842" height="882" key="find.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587397975102" />
+    <state x="301" y="207" key="run.anything.popup" timestamp="1586983640375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="207" key="run.anything.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1586983640375" />
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup" timestamp="1587587525585">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="0" width="838" height="900" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1587587525585" />
+    <state x="1841" y="0" width="1118" height="1080" key="search.everywhere.popup/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587182907140" />
+    <state x="301" y="23" width="838" height="960" key="search.everywhere.popup/0.23.1440.837/1440.23.1920.1057@0.23.1440.837" timestamp="1587011475569" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day06_Shorthnd_LogicalOperators/shortHadOperator.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$stringManipulation3.ic" NAME="stringManipulation3 Coverage Results" MODIFIED="1585678615118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day14_StringClass.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring2020B18_Java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
