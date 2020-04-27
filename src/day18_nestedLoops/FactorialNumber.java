@@ -13,11 +13,19 @@ public class FactorialNumber {
                  result *= num;
                // result = result * num;
 
+
                 num--;
             }
 
             System.out.println(result);
-
+            System.out.println("==============");
+            int fact=1;
+            int number=5;//It is the number to calculate factorial.
+            for(int i=1;i<=number;i++){
+                //fact=fact*i;
+                fact  *=i;
+            }
+            System.out.println("Factorial of "+number+" is: "+fact);
 
         }
 

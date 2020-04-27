@@ -1,6 +1,6 @@
 package day18_nestedLoops;
 
-public class diWhileLoopPractice {
+public class divisableWhileLoopPractice {
     public static void main(String[] args) {
 
         int number = 103;  // print the number between    100 ~ number
