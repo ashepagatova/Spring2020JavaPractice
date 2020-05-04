@@ -17,7 +17,7 @@ public class RemoveDublicate1 {
             }
              */
 
-            if(result.contains( ""+str.charAt(i) )){   // i is the index number
+            if (result.contains( ""+str.charAt(i) )){   // i is the index number
                 // if the string result does not contains str.charAt(i), then we concate it to the result, if it does we will not concate it to the result
                 continue;
             }
@@ -25,6 +25,9 @@ public class RemoveDublicate1 {
             result += str.charAt(i);  // only gets executed if str.charAt(i) is not contained in the result
 
         }
+
+
+
 
         System.out.println(result);
 

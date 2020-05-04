@@ -2,7 +2,7 @@ package day19_Array;
 
 public class Uniques {
     public static void main(String[] args) {
-        String str = "AABCC";
+        String str = "AABCCLPH";
         String result = "";
 
         for (int j = 0; j <= str.length() - 1; j++){

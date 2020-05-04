@@ -22,6 +22,7 @@ public class ListPractice_2 {
                maxim= list.get(i);
            }
         }
+
         System.out.println(maxim);
        // System.out.println(maximum2);
 
@@ -38,6 +39,8 @@ public class ListPractice_2 {
          list2.add(200);
          list2.add(300);
          list2.add(500);
+
+
         int maximum4 = Library.max(list2);
         System.out.println(maximum4);
 
