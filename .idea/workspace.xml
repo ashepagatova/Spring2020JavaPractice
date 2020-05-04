@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fbb6d18-a3b3-4377-9111-f2f662383a4a" name="Default Changelist" comment="Day32 Predicate">
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/CapitalOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Extract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Extract2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Extract3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Uniques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObject2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/catObjects.java" afterDir="false" />
+    <list default="true" id="5fbb6d18-a3b3-4377-9111-f2f662383a4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day21_MultidementialArray/Quize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Resourses/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Resourses/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day16_ForLoop/RemoveDublicate1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day16_ForLoop/RemoveDublicate1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day16_ForLoop/traning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day18_nestedLoops/FactorialNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day18_nestedLoops/FactorialNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day18_nestedLoops/diWhileLoopPractice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day18_nestedLoops/doWhile1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day18_nestedLoops/doWhile1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day19_Array/Interview_Question_Freaquency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day19_Array/Interview_Question_Freaquency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day19_Array/Uniques.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day19_Array/Uniques.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_Date_Time/DateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_Date_Time/DateTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day21_MultidementialArray/avarageNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_MultidementialArray/AverageNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,7 +257,7 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Duplicates">
+  <component name="RunManager" selected="Application.CapitalOne">
     <configuration name="ArraysPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19_Array.SelfStudy.ArraysPractice" />
       <module name="Spring2020B18_Java" />
@@ -302,8 +284,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.Duplicates" />
+    <configuration name="CapitalOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.CapitalOne" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -315,12 +297,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FreeQvency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19_Array.SelfStudy.FreeQvency" />
+    <configuration name="Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_CustomClass.Duplicates" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_Array.SelfStudy.*" />
+          <option name="PATTERN" value="day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,19 +324,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FreeQvency" />
       <item itemvalue="Application.Arrays_intro" />
       <item itemvalue="Application.ArraysPractice" />
       <item itemvalue="Application.justTest" />
       <item itemvalue="Application.Duplicates" />
+      <item itemvalue="Application.CapitalOne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CapitalOne" />
         <item itemvalue="Application.Duplicates" />
         <item itemvalue="Application.justTest" />
         <item itemvalue="Application.ArraysPractice" />
         <item itemvalue="Application.Arrays_intro" />
-        <item itemvalue="Application.FreeQvency" />
       </list>
     </recent_temporary>
   </component>
@@ -369,6 +351,14 @@
       <option name="presentableId" value="Default" />
       <updated>1583771051467</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day33 customClass">
+      <created>1588633277606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588633277606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -382,7 +372,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day32 Predicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day32 Predicate" />
+    <MESSAGE value="Day33 customClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day33 customClass" />
   </component>
   <component name="WindowStateProjectService">
     <state x="220" y="36" key="#Notifications" timestamp="1588006499008">
@@ -419,15 +410,16 @@
       <screen x="0" y="23" width="1440" height="835" />
     </state>
     <state x="411" y="273" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.835@0.23.1440.835" timestamp="1588467955057" />
-    <state x="366" y="0" width="971" height="900" key="CommitChangelistDialog2" timestamp="1588619624442">
+    <state x="366" y="0" width="971" height="900" key="CommitChangelistDialog2" timestamp="1588633277309">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="366" y="0" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588633277309" />
     <state x="1928" y="80" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1588121539477" />
     <state x="366" y="0" width="971" height="900" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1588619624442" />
-    <state width="1388" height="164" key="GridCell.Tab.0.bottom" timestamp="1588632903242">
+    <state width="1388" height="164" key="GridCell.Tab.0.bottom" timestamp="1588635288810">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="164" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588632903242" />
+    <state width="1388" height="164" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588635288810" />
     <state width="1868" height="215" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587436805727" />
     <state width="1388" height="187" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587653405026" />
     <state width="1388" height="164" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588619326804" />
@@ -441,10 +433,10 @@
     <state width="1868" height="82" key="GridCell.Tab.0.bottom/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899207" />
     <state width="1348" height="168" key="GridCell.Tab.0.bottom/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1585663289572" />
     <state width="1868" height="236" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1585798917863" />
-    <state width="1388" height="164" key="GridCell.Tab.0.center" timestamp="1588632903240">
+    <state width="1388" height="164" key="GridCell.Tab.0.center" timestamp="1588635288808">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="164" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588632903240" />
+    <state width="1388" height="164" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588635288808" />
     <state width="1868" height="215" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587436805723" />
     <state width="1388" height="187" key="GridCell.Tab.0.center/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587653405024" />
     <state width="1388" height="164" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588619326804" />
@@ -458,10 +450,10 @@
     <state width="1868" height="82" key="GridCell.Tab.0.center/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899206" />
     <state width="1348" height="168" key="GridCell.Tab.0.center/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1585663289571" />
     <state width="1868" height="236" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1585798917861" />
-    <state width="1388" height="164" key="GridCell.Tab.0.left" timestamp="1588632903239">
+    <state width="1388" height="164" key="GridCell.Tab.0.left" timestamp="1588635288807">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="164" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588632903239" />
+    <state width="1388" height="164" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588635288807" />
     <state width="1868" height="215" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587436805722" />
     <state width="1388" height="187" key="GridCell.Tab.0.left/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587653405023" />
     <state width="1388" height="164" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588619326803" />
@@ -475,10 +467,10 @@
     <state width="1868" height="82" key="GridCell.Tab.0.left/0.23.1440.839/1440.23.1920.1057@0.23.1440.839" timestamp="1585763899206" />
     <state width="1348" height="168" key="GridCell.Tab.0.left/0.23.1440.840/1440.23.1920.1057@0.23.1440.840" timestamp="1585663289571" />
     <state width="1868" height="236" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1585798917858" />
-    <state width="1388" height="164" key="GridCell.Tab.0.right" timestamp="1588632903241">
+    <state width="1388" height="164" key="GridCell.Tab.0.right" timestamp="1588635288809">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="164" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588632903241" />
+    <state width="1388" height="164" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1588635288809" />
     <state width="1868" height="215" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1587436805724" />
     <state width="1388" height="187" key="GridCell.Tab.0.right/0.0.1440.900/1440.23.1920.1057@0.0.1440.900" timestamp="1587653405025" />
     <state width="1388" height="164" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588619326804" />

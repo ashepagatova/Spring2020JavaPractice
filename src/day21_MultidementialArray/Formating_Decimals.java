@@ -2,7 +2,7 @@ package day21_MultidementialArray;
 
 import java.text.DecimalFormat;
 
-public class FormationgDecimals {
+public class Formating_Decimals {
     public static void main(String[] args) {
        // DecimalFormat DF = new DecimalFormat();
       DecimalFormat DF1 = new DecimalFormat("0.00");
