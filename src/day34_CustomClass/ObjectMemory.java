@@ -28,6 +28,7 @@ public class ObjectMemory {int i = 1000; // instance variable
         int a = 300;
 
 
+
     }
 
 }
